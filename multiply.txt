@@ -1,0 +1,20 @@
+Input
+Store Input1
+Input
+Store Input2
+Load Input1
+Subt One
+Store Input1
+Load Final
+Add Input2
+Store Final
+Load Input1
+Skipcond 400
+Jump 005
+Load Final
+Output
+Halt
+Input1, dec 0
+Input2, dec 0
+Final, dec 0
+One, dec 1

@@ -1,0 +1,18 @@
+Input
+Store x1
+Add x1
+Store x2
+Add x1
+Store x3
+Add x3
+Store x6
+Add x1
+Store x7
+Subt x2
+Output
+Halt
+x2, dec 0
+x3, dec 0
+x6, dec 0
+x7, dec 0
+x1, dec 0
